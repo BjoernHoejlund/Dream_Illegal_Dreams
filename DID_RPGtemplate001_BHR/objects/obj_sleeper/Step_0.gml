@@ -1,5 +1,6 @@
 var target = instance_nearest(x, y, obj_Player);
-if(target != noone && point_distance(x,y, target.x, target.y) < 16){
+var distance = point_distance(x,y, target.x, target.y);
+if(target != noone && distance < 20){
     if(!playerNearby ){
         onPlayerNearby();
     }
