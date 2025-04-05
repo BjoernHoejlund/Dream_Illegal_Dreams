@@ -15,6 +15,7 @@
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_sleeper","order":1,"path":"objects/obj_sleeper/obj_sleeper.yy",},
     {"name":"spr_cosmiclilac","order":1,"path":"sprites/spr_cosmiclilac/spr_cosmiclilac.yy",},
     {"name":"spr_greendungeon","order":2,"path":"sprites/spr_greendungeon/spr_greendungeon.yy",},
     {"name":"spr_greenscifi","order":3,"path":"sprites/spr_greenscifi/spr_greenscifi.yy",},
