@@ -42,6 +42,7 @@
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"dreams.json","CopyToMask":-1,"filePath":"datafiles","name":"dreams.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"PressStart2P-vaV7.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PressStart2P-vaV7.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -50,6 +51,7 @@
   },
   "name":"DID_RPGtemplate002_BHR",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"README","path":"notes/README/README.yy",},},
     {"id":{"name":"obj_action","path":"objects/obj_action/obj_action.yy",},},
     {"id":{"name":"obj_dream","path":"objects/obj_dream/obj_dream.yy",},},
@@ -93,7 +95,6 @@
     {"id":{"name":"grammar_push_rules","path":"scripts/grammar_push_rules/grammar_push_rules.yy",},},
     {"id":{"name":"in_quotes","path":"scripts/in_quotes/in_quotes.yy",},},
     {"id":{"name":"is_consonant","path":"scripts/is_consonant/is_consonant.yy",},},
-    {"id":{"name":"json_importer","path":"scripts/json_importer/json_importer.yy",},},
     {"id":{"name":"node_create_children_from_sections","path":"scripts/node_create_children_from_sections/node_create_children_from_sections.yy",},},
     {"id":{"name":"node_expand_children","path":"scripts/node_expand_children/node_expand_children.yy",},},
     {"id":{"name":"node_expand","path":"scripts/node_expand/node_expand.yy",},},

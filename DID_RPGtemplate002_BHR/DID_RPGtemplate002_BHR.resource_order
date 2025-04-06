@@ -63,7 +63,6 @@
     {"name":"grammar_push_rules","order":9,"path":"scripts/grammar_push_rules/grammar_push_rules.yy",},
     {"name":"in_quotes","order":5,"path":"scripts/in_quotes/in_quotes.yy",},
     {"name":"is_consonant","order":2,"path":"scripts/is_consonant/is_consonant.yy",},
-    {"name":"json_importer","order":2,"path":"scripts/json_importer/json_importer.yy",},
     {"name":"node_expand_children","order":2,"path":"scripts/node_expand_children/node_expand_children.yy",},
     {"name":"node_expand","order":1,"path":"scripts/node_expand/node_expand.yy",},
     {"name":"node_init_parent","order":3,"path":"scripts/node_init_parent/node_init_parent.yy",},
