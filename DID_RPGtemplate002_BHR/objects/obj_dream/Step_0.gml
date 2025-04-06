@@ -12,4 +12,4 @@ if (string_length(currentSentence) <= 10)
 	{currentSentence += newSentence()};
 
 if (string_length(dream) == 65)
-{dream = string_delete(dream, 1, 1)};
+{dream = string_delete(dream, 1, 65)};

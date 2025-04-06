@@ -29,7 +29,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_action","order":2,"path":"objects/obj_action/obj_action.yy",},
-    {"name":"obj_example","order":3,"path":"objects/obj_example/obj_example.yy",},
+    {"name":"obj_dream","order":3,"path":"objects/obj_dream/obj_dream.yy",},
     {"name":"obj_grammar","order":3,"path":"objects/obj_grammar/obj_grammar.yy",},
     {"name":"obj_modifier","order":4,"path":"objects/obj_modifier/obj_modifier.yy",},
     {"name":"obj_push","order":5,"path":"objects/obj_push/obj_push.yy",},
@@ -63,6 +63,7 @@
     {"name":"grammar_push_rules","order":9,"path":"scripts/grammar_push_rules/grammar_push_rules.yy",},
     {"name":"in_quotes","order":5,"path":"scripts/in_quotes/in_quotes.yy",},
     {"name":"is_consonant","order":2,"path":"scripts/is_consonant/is_consonant.yy",},
+    {"name":"json_importer","order":2,"path":"scripts/json_importer/json_importer.yy",},
     {"name":"node_expand_children","order":2,"path":"scripts/node_expand_children/node_expand_children.yy",},
     {"name":"node_expand","order":1,"path":"scripts/node_expand/node_expand.yy",},
     {"name":"node_init_parent","order":3,"path":"scripts/node_init_parent/node_init_parent.yy",},

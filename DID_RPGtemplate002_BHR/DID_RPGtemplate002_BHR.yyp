@@ -40,7 +40,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"dreams.json","CopyToMask":-1,"filePath":"datafiles","name":"dreams.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -50,7 +52,7 @@
   "resources":[
     {"id":{"name":"README","path":"notes/README/README.yy",},},
     {"id":{"name":"obj_action","path":"objects/obj_action/obj_action.yy",},},
-    {"id":{"name":"obj_example","path":"objects/obj_example/obj_example.yy",},},
+    {"id":{"name":"obj_dream","path":"objects/obj_dream/obj_dream.yy",},},
     {"id":{"name":"obj_grammar","path":"objects/obj_grammar/obj_grammar.yy",},},
     {"id":{"name":"obj_modifier","path":"objects/obj_modifier/obj_modifier.yy",},},
     {"id":{"name":"obj_node","path":"objects/obj_node/obj_node.yy",},},
@@ -91,6 +93,7 @@
     {"id":{"name":"grammar_push_rules","path":"scripts/grammar_push_rules/grammar_push_rules.yy",},},
     {"id":{"name":"in_quotes","path":"scripts/in_quotes/in_quotes.yy",},},
     {"id":{"name":"is_consonant","path":"scripts/is_consonant/is_consonant.yy",},},
+    {"id":{"name":"json_importer","path":"scripts/json_importer/json_importer.yy",},},
     {"id":{"name":"node_create_children_from_sections","path":"scripts/node_create_children_from_sections/node_create_children_from_sections.yy",},},
     {"id":{"name":"node_expand_children","path":"scripts/node_expand_children/node_expand_children.yy",},},
     {"id":{"name":"node_expand","path":"scripts/node_expand/node_expand.yy",},},
