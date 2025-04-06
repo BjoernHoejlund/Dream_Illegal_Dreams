@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tag_node_copy_tag",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tag_node_copy_tag",
+  "parent":{
+    "name":"node",
+    "path":"folders/Scripts/tracery/node.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

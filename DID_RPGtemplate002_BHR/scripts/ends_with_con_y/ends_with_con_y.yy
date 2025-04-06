@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ends_with_con_y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ends_with_con_y",
+  "parent":{
+    "name":"tracery_specific",
+    "path":"folders/Scripts/tracery/utilities/tracery_specific.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

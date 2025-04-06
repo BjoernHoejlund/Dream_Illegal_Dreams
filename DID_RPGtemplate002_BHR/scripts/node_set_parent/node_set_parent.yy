@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"node_set_parent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"node_set_parent",
+  "parent":{
+    "name":"node",
+    "path":"folders/Scripts/tracery/node.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

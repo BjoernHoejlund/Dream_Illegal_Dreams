@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"a_an",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"a_an",
+  "parent":{
+    "name":"universal",
+    "path":"folders/Scripts/tracery/modifier/universal.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

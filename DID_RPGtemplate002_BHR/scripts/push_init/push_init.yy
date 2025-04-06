@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"push_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"push_init",
+  "parent":{
+    "name":"tracery_specific",
+    "path":"folders/Scripts/tracery/utilities/tracery_specific.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

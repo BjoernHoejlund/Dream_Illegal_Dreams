@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"grammar_add_or_get_symbol",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"grammar_add_or_get_symbol",
+  "parent":{
+    "name":"grammar",
+    "path":"folders/Scripts/tracery/grammar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rule_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rule_init",
+  "parent":{
+    "name":"rule",
+    "path":"folders/Scripts/tracery/rule.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"action_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"action_init",
+  "parent":{
+    "name":"action",
+    "path":"folders/Scripts/tracery/action.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

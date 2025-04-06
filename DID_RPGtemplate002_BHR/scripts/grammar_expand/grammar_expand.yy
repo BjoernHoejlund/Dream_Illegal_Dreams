@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"grammar_expand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"grammar_expand",
+  "parent":{
+    "name":"grammar",
+    "path":"folders/Scripts/tracery/grammar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

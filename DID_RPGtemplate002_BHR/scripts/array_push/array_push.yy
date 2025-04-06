@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_push",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_push",
+  "parent":{
+    "name":"utilities",
+    "path":"folders/Scripts/tracery/utilities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

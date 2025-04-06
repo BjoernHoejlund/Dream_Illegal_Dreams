@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_section",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_section",
+  "parent":{
+    "name":"tracery_specific",
+    "path":"folders/Scripts/tracery/utilities/tracery_specific.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

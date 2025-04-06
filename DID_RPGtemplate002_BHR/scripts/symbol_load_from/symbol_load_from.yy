@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"symbol_load_from",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"symbol_load_from",
+  "parent":{
+    "name":"symbol",
+    "path":"folders/Scripts/tracery/symbol.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

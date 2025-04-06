@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"non_action",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"non_action",
+  "parent":{
+    "name":"tracery_specific",
+    "path":"folders/Scripts/tracery/utilities/tracery_specific.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

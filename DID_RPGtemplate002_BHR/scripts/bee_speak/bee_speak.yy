@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bee_speak",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bee_speak",
+  "parent":{
+    "name":"universal",
+    "path":"folders/Scripts/tracery/modifier/universal.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

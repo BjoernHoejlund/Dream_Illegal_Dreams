@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"grammar_push_rules",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"grammar_push_rules",
+  "parent":{
+    "name":"grammar",
+    "path":"folders/Scripts/tracery/grammar.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

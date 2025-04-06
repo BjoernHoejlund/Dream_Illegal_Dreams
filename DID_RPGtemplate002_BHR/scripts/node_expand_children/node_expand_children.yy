@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"node_expand_children",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"node_expand_children",
+  "parent":{
+    "name":"node",
+    "path":"folders/Scripts/tracery/node.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
