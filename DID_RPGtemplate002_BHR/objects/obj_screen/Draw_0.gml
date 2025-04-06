@@ -6,5 +6,5 @@ draw_set_font(Font1)
 var _str = string(dream);
 
 
-draw_text_ext_transformed(x + 3, y, _str, -1, 280, 0.2, 0.2, 0);
+draw_text_ext_transformed(x + 8, y + 8, _str, -1, 280, 0.2, 0.2, 0);
 
