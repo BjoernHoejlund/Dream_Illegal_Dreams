@@ -19,17 +19,14 @@ grammar = instance_create_depth(0, 0, 0, obj_grammar);
 grammar_load_from(grammar, json_decode(_json_string));
 
 newSentence = function()
-{	
-	var topic = "origin";
-	
-	if (topic == "hero")
-	{result = grammar_flatten(grammar, "#name#")}
-	else if (topic == "pet")
-	{result = grammar_flatten(grammar, "#animal#")}
+{		
+	if (topic == "dino")
+	{result = grammar_flatten(grammar, "#dinosaurs#")}
+	else if (topic == "things")
+	{result = grammar_flatten(grammar, "#objects#")}
 	else
 	{result = grammar_flatten(grammar, "#origin#")}
-	
-	show_debug_message(result);
+
 	return result;
 }
 

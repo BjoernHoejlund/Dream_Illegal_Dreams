@@ -1,6 +1,8 @@
 interacting = false;
 playerNearby = false;
 
+topic_array = [ "origin", "dino", "things" ];
+
 onPlayerNearby = function(){
     playerNearby = true;
     show_debug_message("on player nearby");
@@ -16,5 +18,5 @@ interact = function(){
         return;
     }
     interacting = true;
-    show_debug_message("player interacted");
+    topic = irandom(array_length(topic_array) - 1);
 }
